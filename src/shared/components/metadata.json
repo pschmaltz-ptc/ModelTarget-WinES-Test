@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "requires": [
+    "w320dp"
+  ],
+  "experiences": [
+    {
+      "vumark": "1505:2",
+      "experienceType": "vumark",
+      "id": 1,
+      "index-keys": [
+        "urn:vuforia:vumark:1505:2"
+      ],
+      "title": {
+        "en": "Model-Target-WinES-Testing"
+      },
+      "description": {
+        "en": "",
+        "en-US": ""
+      },
+      "requires": [
+        "AR-tracking"
+      ],
+      "tags": [],
+      "icon": "",
+      "viewName": "Home",
+      "url-template": "index.html?expId=1#/?thing={{thingworx:thing}}&vumark={{vuforia:vumark}}",
+      "entryPoint": "index.html?expId=1#/",
+      "thumbnail": "",
+      "thingTemplateName": ""
+    }
+  ],
+  "accessType": "public",
+  "designedfor": []
+}

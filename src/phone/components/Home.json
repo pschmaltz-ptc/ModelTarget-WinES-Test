@@ -1,0 +1,460 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "data-viewtype": "ar",
+    "widget-name": "view-1",
+    "is-widget-container": "true"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "3DContainer-1",
+            "widget-name": "3D Container",
+            "is-widget-container": "true"
+          },
+          "name": "twx-dt-view",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "model-1",
+                    "widget-name": "model-1",
+                    "modelloaded-expression": "app.logToTWX('model-loaded','user started AR-event-logging-to-TWX-example AR experience');",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/Rubix-Basic-1a.pvz",
+                    "visible": "false",
+                    "sequence": "Uploaded/s-PVZ - RubixFigure1.pvi"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "modelItem-1",
+                            "widget-name": "modelItem-1",
+                            "is-widget-container": "true",
+                            "model": "model-1",
+                            "idpath": "/0/0/23",
+                            "scale": "1.0000",
+                            "y": "0.0191",
+                            "z": "0.0381",
+                            "rx": "0.00",
+                            "ry": "0.00",
+                            "rz": "0.00",
+                            "color": "rgba(255,0,0, 1);"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "attributes": {
+                                "databind-id": "db-1538171052693",
+                                "source-type": "ui",
+                                "source-label": "Slider",
+                                "source-name": "slider-1",
+                                "source-item-type": "property",
+                                "source-item-name": "value",
+                                "binding-type": "widget_property",
+                                "from-expression": "app.view['Home'].wdg['slider-1']['value']",
+                                "to-property": "opacity"
+                              },
+                              "name": "twx-databind"
+                            },
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "modelTarget-1",
+                    "detection-position": "{\"globalPosition\":{\"x\":-0.008094383945099006,\"y\":0.028634610294641084,\"z\":0.18469929332284388},\"axisAngle\":{\"x\":0.9993035812165487,\"y\":0.11325114939382948,\"z\":-0.359410621058457,\"w\":3.551596509339355},\"cameraLocation\":{\"position\":{\"x\":0.10056499391794205,\"y\":0.10762228816747665,\"z\":0.11534042656421661},\"orientation\":{\"x\":-23.51319694519043,\"y\":40.236236572265625,\"z\":4.212369918823242},\"scale\":{\"x\":0.9999998807907104,\"y\":1,\"z\":1.0000001192092896},\"size\":{\"x\":0.9999998807907104,\"y\":1,\"z\":1.0000001192092896},\"valid\":true},\"modelScale\":1,\"origModelSize\":{\"x\":0.05714999884366989,\"y\":0.05715000256896019,\"z\":0.05714999884366989}}",
+                    "target-id": "5fd1e6a4-24cf-4652-acdd-ce2616024e63",
+                    "widget-name": "modelTarget-1",
+                    "url": "_generated_/mtg/Rubix-Basic-1a-5fd1e6a4-24cf-4652-acdd-ce2616024e63.png",
+                    "rx": "0",
+                    "model": "model-1"
+                  },
+                  "name": "twx-dt-target-model"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "3DImage-1",
+                    "widget-name": "3DImage-1",
+                    "src": "Default/vu_alert1.svg",
+                    "scale": "0.2000",
+                    "x": "0.0021",
+                    "y": "0.0261",
+                    "z": "-0.0035",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-image"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "2DOverlay-1",
+            "widget-name": "2D Overlay",
+            "is-widget-container": "true"
+          },
+          "name": "twx-overlay",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "panel-1",
+                    "widget-name": "Top Panel",
+                    "is-widget-container": "true",
+                    "position": "top"
+                  },
+                  "name": "twx-overlay-container",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "gridLayout-1",
+                            "widget-name": "gridLayout-1",
+                            "is-widget-container": "true"
+                          },
+                          "name": "twx-gridlayout",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "row-1",
+                                    "widget-name": "row-1",
+                                    "is-widget-container": "true"
+                                  },
+                                  "name": "twx-row",
+                                  "children": [
+                                    {
+                                      "name": "twx-container-content",
+                                      "children": [
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "column-1",
+                                            "widget-name": "column-1",
+                                            "is-widget-container": "true",
+                                            "class": "",
+                                            "padding": "4px"
+                                          },
+                                          "name": "twx-col",
+                                          "children": [
+                                            {
+                                              "name": "twx-container-content"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "column-2",
+                                            "widget-name": "column-2",
+                                            "is-widget-container": "true",
+                                            "justification": "center",
+                                            "padding": "4px"
+                                          },
+                                          "name": "twx-col",
+                                          "children": [
+                                            {
+                                              "name": "twx-container-content"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "column-3",
+                                            "widget-name": "column-3",
+                                            "is-widget-container": "true",
+                                            "justification": "center",
+                                            "padding": "4px"
+                                          },
+                                          "name": "twx-col",
+                                          "children": [
+                                            {
+                                              "name": "twx-container-content",
+                                              "children": [
+                                                {
+                                                  "attributes": {
+                                                    "twx-widget": "",
+                                                    "widget-id": "button-3",
+                                                    "widget-name": "button-3",
+                                                    "text": "Play",
+                                                    "class": "button-calm"
+                                                  },
+                                                  "name": "twx-button",
+                                                  "children": [
+                                                    {
+                                                      "attributes": {
+                                                        "eventbind-id": "eb-1538577715385",
+                                                        "source-type": "widget",
+                                                        "source-label": "Button",
+                                                        "source-name": "button-3",
+                                                        "source-event": "click",
+                                                        "handler-type": "ui",
+                                                        "handler-name": "model-1",
+                                                        "handler-service": "play",
+                                                        "handler": "app.view[\"Home\"].wdg[\"model-1\"].svc.play"
+                                                      },
+                                                      "name": "twx-eventbind"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "2DOverlayBody-1",
+                    "widget-name": "2D Body",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-overlay-body",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-2",
+                            "widget-name": "Left Panel",
+                            "is-widget-container": "true",
+                            "position": "left"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-3",
+                            "widget-name": "Center Panel",
+                            "is-widget-container": "true",
+                            "position": "center"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-4",
+                            "widget-name": "Right Panel",
+                            "is-widget-container": "true",
+                            "position": "right"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "panel-5",
+                    "widget-name": "Bottom Panel",
+                    "is-widget-container": "true",
+                    "position": "bottom"
+                  },
+                  "name": "twx-overlay-container",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "gridLayout-2",
+                            "widget-name": "gridLayout-2",
+                            "is-widget-container": "true"
+                          },
+                          "name": "twx-gridlayout",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "row-2",
+                                    "widget-name": "row-2",
+                                    "is-widget-container": "true"
+                                  },
+                                  "name": "twx-row",
+                                  "children": [
+                                    {
+                                      "name": "twx-container-content",
+                                      "children": [
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "column-4",
+                                            "widget-name": "column-4",
+                                            "is-widget-container": "true"
+                                          },
+                                          "name": "twx-col",
+                                          "children": [
+                                            {
+                                              "name": "twx-container-content"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "column-5",
+                                            "widget-name": "column-5",
+                                            "is-widget-container": "true"
+                                          },
+                                          "name": "twx-col",
+                                          "children": [
+                                            {
+                                              "name": "twx-container-content",
+                                              "children": [
+                                                {
+                                                  "attributes": {
+                                                    "twx-widget": "",
+                                                    "widget-id": "slider-1",
+                                                    "widget-name": "slider-1",
+                                                    "max": "1",
+                                                    "step": ".1",
+                                                    "value": "1"
+                                                  },
+                                                  "name": "twx-range"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "column-6",
+                                            "widget-name": "column-6",
+                                            "is-widget-container": "true"
+                                          },
+                                          "name": "twx-col",
+                                          "children": [
+                                            {
+                                              "name": "twx-container-content",
+                                              "children": [
+                                                {
+                                                  "attributes": {
+                                                    "twx-widget": "",
+                                                    "widget-id": "textInput-1",
+                                                    "disabled": "true",
+                                                    "widget-name": "textInput-1",
+                                                    "type": "stackedlabel",
+                                                    "label": "Item Opacity Value:"
+                                                  },
+                                                  "name": "twx-text-input",
+                                                  "children": [
+                                                    {
+                                                      "attributes": {
+                                                        "databind-id": "db-1538171225998",
+                                                        "source-type": "ui",
+                                                        "source-label": "Slider",
+                                                        "source-name": "slider-1",
+                                                        "source-item-type": "property",
+                                                        "source-item-name": "value",
+                                                        "binding-type": "widget_property",
+                                                        "from-expression": "app.view['Home'].wdg['slider-1']['value']",
+                                                        "to-property": "text"
+                                                      },
+                                                      "name": "twx-databind"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

@@ -1,0 +1,139 @@
+2018-09-21T19:50:26.091Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Begin upgrade of project JSONFile-OccurenceSearchTesting2
+2018-09-21T19:50:26.093Z - info: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Upgrading project JSONFile-OccurenceSearchTesting2 D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2 from 1.29.1278 to 8.3.3.3744 (1.29.1278)
+2018-09-21T19:50:26.109Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Make sure there are not any stale files lying around
+2018-09-21T19:50:26.109Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2/src/phone/resources/Default/
+2018-09-21T19:50:26.122Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Create .gitignore for project dir
+2018-09-21T19:50:26.123Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Copying /src/**/* to project, overwrite=false
+2018-09-21T19:50:26.126Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-09-21T19:50:26.244Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Copy of project files complete
+2018-09-21T19:50:26.244Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Updating version to  8.3.3.3744 (1.29.1278)
+2018-09-21T19:50:26.244Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] onupgrade sucessful, now build the project
+2018-09-21T19:50:26.244Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] BEGIN buildApp JSONFile-OccurenceSearchTesting2_1537559426244
+2018-09-21T19:50:26.244Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] write settings
+2018-09-21T19:50:26.245Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] copy runtime extensions
+2018-09-21T19:50:26.430Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] packageThemeSet
+2018-09-21T19:50:27.889Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] onBuild
+2018-09-21T19:50:27.889Z - info: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Building ves-ar-extension app: JSONFile-OccurenceSearchTesting2
+2018-09-21T19:50:27.901Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] pathDir D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2
+2018-09-21T19:50:27.901Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] scaffoldDir D:\Users\pschmaltz\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-09-21T19:50:27.901Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] copySrc
+2018-09-21T19:50:28.309Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] buildApp
+2018-09-21T19:50:28.572Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] END buildApp JSONFile-OccurenceSearchTesting2_1537559426244
+2018-09-21T19:50:28.572Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Build succeeded.
+2018-09-21T22:30:49.788Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Begin upgrade of project JSONFile-OccurenceSearchTesting2
+2018-09-21T22:30:49.788Z - info: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Upgrading project JSONFile-OccurenceSearchTesting2 D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2 from 1.29.1278 to 8.3.4.3838 (1.30.1321)
+2018-09-21T22:30:49.791Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Make sure there are not any stale files lying around
+2018-09-21T22:30:49.791Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2/css/
+2018-09-21T22:30:49.804Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2/dist/
+2018-09-21T22:30:50.022Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2/extensions/
+2018-09-21T22:30:50.036Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2/src/phone/resources/Default/
+2018-09-21T22:30:50.047Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2/theme/
+2018-09-21T22:30:50.053Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Copying /src/**/* to project, overwrite=false
+2018-09-21T22:30:50.054Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-09-21T22:30:50.147Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Copy of project files complete
+2018-09-21T22:30:50.148Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Updating version to  8.3.4.3838 (1.30.1321)
+2018-09-21T22:30:50.148Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] onupgrade sucessful, now build the project
+2018-09-21T22:30:50.148Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] BEGIN buildApp JSONFile-OccurenceSearchTesting2_1537569050148
+2018-09-21T22:30:50.148Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] write settings
+2018-09-21T22:30:50.148Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] copy runtime extensions
+2018-09-21T22:30:50.317Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] packageThemeSet
+2018-09-21T22:30:51.836Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] onBuild
+2018-09-21T22:30:51.837Z - info: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Building ves-ar-extension app: JSONFile-OccurenceSearchTesting2
+2018-09-21T22:30:51.850Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] pathDir D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\JSONFile-OccurenceSearchTesting2
+2018-09-21T22:30:51.850Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] scaffoldDir D:\Users\pschmaltz\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-09-21T22:30:51.850Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] copySrc
+2018-09-21T22:30:52.140Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] buildApp
+2018-09-21T22:30:52.384Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] END buildApp JSONFile-OccurenceSearchTesting2_1537569050148
+2018-09-21T22:30:52.384Z - debug: [twx-studio:upgrade:JSONFile-OccurenceSearchTesting2] Build succeeded.
+
+2018-09-24T20:19:07.873Z: Project "JSONFile-OccurenceSearchTesting2" saved as new project "TM3Drenderer-testing1"2018-09-24T20:19:10.633Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] Begin upgrade of project TM3Drenderer-testing1
+2018-09-24T20:19:10.633Z - info: [twx-studio:upgrade:TM3Drenderer-testing1] Upgrading project TM3Drenderer-testing1 D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\TM3Drenderer-testing1 from 1.30.1321 to 8.3.4.3838 (1.30.1321)
+2018-09-24T20:19:10.637Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] Make sure there are not any stale files lying around
+2018-09-24T20:19:10.637Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\TM3Drenderer-testing1/src/phone/resources/Default/
+2018-09-24T20:19:10.647Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] Create .gitignore for project dir
+2018-09-24T20:19:10.647Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] Copying /src/**/* to project, overwrite=false
+2018-09-24T20:19:10.648Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-09-24T20:19:10.804Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] Copy of project files complete
+2018-09-24T20:19:10.804Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] Updating version to  8.3.4.3838 (1.30.1321)
+2018-09-24T20:19:10.804Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] onupgrade sucessful, now build the project
+2018-09-24T20:19:10.804Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] BEGIN buildApp TM3Drenderer-testing1_1537820350804
+2018-09-24T20:19:10.805Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] write settings
+2018-09-24T20:19:10.805Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] copy runtime extensions
+2018-09-24T20:19:11.041Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] packageThemeSet
+2018-09-24T20:19:12.340Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] onBuild
+2018-09-24T20:19:12.341Z - info: [twx-studio:upgrade:TM3Drenderer-testing1] Building ves-ar-extension app: TM3Drenderer-testing1
+2018-09-24T20:19:12.352Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] pathDir D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\TM3Drenderer-testing1
+2018-09-24T20:19:12.352Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] scaffoldDir D:\Users\pschmaltz\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-09-24T20:19:12.352Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] copySrc
+2018-09-24T20:19:12.591Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] buildApp
+2018-09-24T20:19:12.942Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] END buildApp TM3Drenderer-testing1_1537820350804
+2018-09-24T20:19:12.942Z - debug: [twx-studio:upgrade:TM3Drenderer-testing1] Build succeeded.
+
+2018-09-26T16:33:50.674Z: Project "TM3Drenderer-testing1" saved as new project "node-distance-calculator-example"2018-09-26T16:33:52.148Z - debug: [twx-studio:upgrade:node-distance-calculator-example] Begin upgrade of project node-distance-calculator-example
+2018-09-26T16:33:52.148Z - info: [twx-studio:upgrade:node-distance-calculator-example] Upgrading project node-distance-calculator-example D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\node-distance-calculator-example from 1.30.1321 to 8.3.4.3838 (1.30.1321)
+2018-09-26T16:33:52.153Z - debug: [twx-studio:upgrade:node-distance-calculator-example] Make sure there are not any stale files lying around
+2018-09-26T16:33:52.153Z - debug: [twx-studio:upgrade:node-distance-calculator-example] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\node-distance-calculator-example/src/phone/resources/Default/
+2018-09-26T16:33:52.172Z - debug: [twx-studio:upgrade:node-distance-calculator-example] Create .gitignore for project dir
+2018-09-26T16:33:52.172Z - debug: [twx-studio:upgrade:node-distance-calculator-example] Copying /src/**/* to project, overwrite=false
+2018-09-26T16:33:52.174Z - debug: [twx-studio:upgrade:node-distance-calculator-example] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-09-26T16:33:52.286Z - debug: [twx-studio:upgrade:node-distance-calculator-example] Copy of project files complete
+2018-09-26T16:33:52.286Z - debug: [twx-studio:upgrade:node-distance-calculator-example] Updating version to  8.3.4.3838 (1.30.1321)
+2018-09-26T16:33:52.286Z - debug: [twx-studio:upgrade:node-distance-calculator-example] onupgrade sucessful, now build the project
+2018-09-26T16:33:52.286Z - debug: [twx-studio:upgrade:node-distance-calculator-example] BEGIN buildApp node-distance-calculator-example_1537979632286
+2018-09-26T16:33:52.286Z - debug: [twx-studio:upgrade:node-distance-calculator-example] write settings
+2018-09-26T16:33:52.287Z - debug: [twx-studio:upgrade:node-distance-calculator-example] copy runtime extensions
+2018-09-26T16:33:52.473Z - debug: [twx-studio:upgrade:node-distance-calculator-example] packageThemeSet
+2018-09-26T16:33:53.538Z - debug: [twx-studio:upgrade:node-distance-calculator-example] onBuild
+2018-09-26T16:33:53.538Z - info: [twx-studio:upgrade:node-distance-calculator-example] Building ves-ar-extension app: node-distance-calculator-example
+2018-09-26T16:33:53.548Z - debug: [twx-studio:upgrade:node-distance-calculator-example] pathDir D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\node-distance-calculator-example
+2018-09-26T16:33:53.548Z - debug: [twx-studio:upgrade:node-distance-calculator-example] scaffoldDir D:\Users\pschmaltz\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-09-26T16:33:53.548Z - debug: [twx-studio:upgrade:node-distance-calculator-example] copySrc
+2018-09-26T16:33:53.819Z - debug: [twx-studio:upgrade:node-distance-calculator-example] buildApp
+2018-09-26T16:33:54.002Z - debug: [twx-studio:upgrade:node-distance-calculator-example] END buildApp node-distance-calculator-example_1537979632286
+2018-09-26T16:33:54.002Z - debug: [twx-studio:upgrade:node-distance-calculator-example] Build succeeded.
+
+2018-09-26T22:36:58.732Z: Project "node-distance-calculator-example" saved as new project "AR-event-logging-to-TWX-example"2018-09-26T22:37:00.673Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Begin upgrade of project AR-event-logging-to-TWX-example
+2018-09-26T22:37:00.673Z - info: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Upgrading project AR-event-logging-to-TWX-example D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\AR-event-logging-to-TWX-example from 1.30.1321 to 8.3.4.3838 (1.30.1321)
+2018-09-26T22:37:00.676Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Make sure there are not any stale files lying around
+2018-09-26T22:37:00.676Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\AR-event-logging-to-TWX-example/src/phone/resources/Default/
+2018-09-26T22:37:00.686Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Create .gitignore for project dir
+2018-09-26T22:37:00.686Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Copying /src/**/* to project, overwrite=false
+2018-09-26T22:37:00.687Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-09-26T22:37:00.766Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Copy of project files complete
+2018-09-26T22:37:00.766Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Updating version to  8.3.4.3838 (1.30.1321)
+2018-09-26T22:37:00.766Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] onupgrade sucessful, now build the project
+2018-09-26T22:37:00.766Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] BEGIN buildApp AR-event-logging-to-TWX-example_1538001420766
+2018-09-26T22:37:00.766Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] write settings
+2018-09-26T22:37:00.766Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] copy runtime extensions
+2018-09-26T22:37:01.032Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] packageThemeSet
+2018-09-26T22:37:02.098Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] onBuild
+2018-09-26T22:37:02.098Z - info: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Building ves-ar-extension app: AR-event-logging-to-TWX-example
+2018-09-26T22:37:02.110Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] pathDir D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\AR-event-logging-to-TWX-example
+2018-09-26T22:37:02.110Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] scaffoldDir D:\Users\pschmaltz\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-09-26T22:37:02.110Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] copySrc
+2018-09-26T22:37:02.349Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] buildApp
+2018-09-26T22:37:02.546Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] END buildApp AR-event-logging-to-TWX-example_1538001420766
+2018-09-26T22:37:02.546Z - debug: [twx-studio:upgrade:AR-event-logging-to-TWX-example] Build succeeded.
+
+2018-09-28T18:30:17.951Z: Project "AR-event-logging-to-TWX-example" saved as new project "ModelTarget-WinES-Test"2018-09-28T18:30:23.494Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] Begin upgrade of project ModelTarget-WinES-Test
+2018-09-28T18:30:23.494Z - info: [twx-studio:upgrade:ModelTarget-WinES-Test] Upgrading project ModelTarget-WinES-Test D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\ModelTarget-WinES-Test from 1.30.1321 to 8.3.4.3838 (1.30.1321)
+2018-09-28T18:30:23.497Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] Make sure there are not any stale files lying around
+2018-09-28T18:30:23.498Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] Removing  D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\ModelTarget-WinES-Test/src/phone/resources/Default/
+2018-09-28T18:30:23.521Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] Create .gitignore for project dir
+2018-09-28T18:30:23.521Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] Copying /src/**/* to project, overwrite=false
+2018-09-28T18:30:23.524Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-09-28T18:30:23.904Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] Copy of project files complete
+2018-09-28T18:30:23.905Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] Updating version to  8.3.4.3838 (1.30.1321)
+2018-09-28T18:30:23.905Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] onupgrade sucessful, now build the project
+2018-09-28T18:30:23.905Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] BEGIN buildApp ModelTarget-WinES-Test_1538159423905
+2018-09-28T18:30:23.905Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] write settings
+2018-09-28T18:30:23.906Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] copy runtime extensions
+2018-09-28T18:30:24.249Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] packageThemeSet
+2018-09-28T18:30:26.112Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] onBuild
+2018-09-28T18:30:26.113Z - info: [twx-studio:upgrade:ModelTarget-WinES-Test] Building ves-ar-extension app: ModelTarget-WinES-Test
+2018-09-28T18:30:26.126Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] pathDir D:\Users\pschmaltz\Documents\VuforiaStudio\Projects\ModelTarget-WinES-Test
+2018-09-28T18:30:26.126Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] scaffoldDir D:\Users\pschmaltz\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-09-28T18:30:26.126Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] copySrc
+2018-09-28T18:30:26.496Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] buildApp
+2018-09-28T18:30:26.879Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] END buildApp ModelTarget-WinES-Test_1538159423905
+2018-09-28T18:30:26.879Z - debug: [twx-studio:upgrade:ModelTarget-WinES-Test] Build succeeded.
